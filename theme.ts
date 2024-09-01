@@ -3,5 +3,5 @@
 import { createTheme } from "@mantine/core";
 
 export const theme = createTheme({
-  /* Put your mantine theme override here */
+  /* You can add custom theme overrides here if needed */
 });
