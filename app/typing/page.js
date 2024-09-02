@@ -107,15 +107,14 @@ const SpeedTypingGame = () => {
 
   return (
     <div>
-      <h1>Touch Type Practice</h1>
-      <div>
+      <h1>New page</h1>
+      {/* <div>
         <Highlight highlight={[input, completedWords]}>
           {homeRowWords.join(" ")}
         </Highlight>
 
-        {/* <p>{numbers.join(" ")}</p> */}
       </div>
-      <TextInput type="text" value={input} onKeyDown={handleKeyDown} />
+      <TextInput type="text" value={input} onKeyDown={handleKeyDown} /> */}
     </div>
     // <div className="container">
     //
